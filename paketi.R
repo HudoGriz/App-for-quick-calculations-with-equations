@@ -1,5 +1,0 @@
-install.packages("shiny")
-install.packages("readxl")
-install.packages("stringr")
-install.packages("data.table")
-install.packages("dplyr")
