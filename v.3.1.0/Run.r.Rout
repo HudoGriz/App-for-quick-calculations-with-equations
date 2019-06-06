@@ -1,0 +1,67 @@
+
+R version 3.5.1 (2018-07-02) -- "Feather Spray"
+Copyright (C) 2018 The R Foundation for Statistical Computing
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> require(shiny)
+Loading required package: shiny
+> folder_address = "C://aplikacija3//poskus1"
+> Encoding(folder_address) = "UTF-8"
+> runApp(folder_address, launch.browser=TRUE)
+
+Listening on http://127.0.0.1:5634
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:data.table':
+
+    between, first, last
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning in mean.default(x, na.rm = TRUE) :
+  argument is not numeric or logical: returning NA
+Warning in var(if (is.vector(x) || is.factor(x)) x else as.double(x), na.rm = na.rm) :
+  NAs introduced by coercion
+Warning in mean.default(sort(x, partial = half + 0L:1L)[half + 0L:1L]) :
+  argument is not numeric or logical: returning NA
+Warning in mean.default(x, na.rm = TRUE) :
+  argument is not numeric or logical: returning NA
+Warning in var(if (is.vector(x) || is.factor(x)) x else as.double(x), na.rm = na.rm) :
+  NAs introduced by coercion
+Warning in mean.default(sort(x, partial = half + 0L:1L)[half + 0L:1L]) :
+  argument is not numeric or logical: returning NA
+Warning in mean.default(x, na.rm = TRUE) :
+  argument is not numeric or logical: returning NA
+Warning in var(if (is.vector(x) || is.factor(x)) x else as.double(x), na.rm = na.rm) :
+  NAs introduced by coercion
+Warning in mean.default(sort(x, partial = half + 0L:1L)[half + 0L:1L]) :
+  argument is not numeric or logical: returning NA
+Warning in min(x, na.rm = TRUE) :
+  no non-missing arguments to min; returning Inf
+Warning in max(x, na.rm = TRUE) :
+  no non-missing arguments to max; returning -Inf
+Warning in min(x, na.rm = TRUE) :
+  no non-missing arguments to min; returning Inf
+Warning in max(x, na.rm = TRUE) :
+  no non-missing arguments to max; returning -Inf
