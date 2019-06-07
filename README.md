@@ -12,4 +12,4 @@ Aplikacija pride z prej naloženimi podatki s antropološke baze, ki so zagotovo
 4.  -Uredi podatke in jih prenesi na računalnik
 
 
-*Aplikacija je bila razvita za potrebe Skupine za antropologijo, Oddelka za biologijo, Biotehniške fakultete, Univerze v Ljubljani, Slovenija (Group of Anthropology, Department of Biology, Biotechnical Faculty, University of Ljubljana, Slovenia)*
+*Aplikacija je bila razvita za potrebe Skupine za antropologijo, Oddelka za biologijo, Biotehniške fakultete, Univerze v Ljubljani, Slovenija (Group of Anthropology, Department of Biology, Biotechnical Faculty, University of Ljubljana, Slovenia).*
